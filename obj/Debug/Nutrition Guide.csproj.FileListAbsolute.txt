@@ -1,0 +1,6 @@
+C:\SD Card\VS Projects\Nutrition Guide\Nutrition Guide\bin\Debug\Nutrition Guide.exe.config
+C:\SD Card\VS Projects\Nutrition Guide\Nutrition Guide\bin\Debug\Nutrition Guide.exe
+C:\SD Card\VS Projects\Nutrition Guide\Nutrition Guide\bin\Debug\Nutrition Guide.pdb
+C:\SD Card\VS Projects\Nutrition Guide\Nutrition Guide\obj\Debug\Nutrition Guide.csprojResolveAssemblyReference.cache
+C:\SD Card\VS Projects\Nutrition Guide\Nutrition Guide\obj\Debug\Nutrition Guide.exe
+C:\SD Card\VS Projects\Nutrition Guide\Nutrition Guide\obj\Debug\Nutrition Guide.pdb
